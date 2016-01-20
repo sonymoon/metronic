@@ -1,0 +1,20 @@
+# Created by .gitignore support plugin (hsz.mobi)
+*.iml
+*.ipr
+*.iws
+*idea*
+*target*
+.DS_Store
+*.class
+*.classpath
+*.project
+*.idea
+.idea/
+nohup.log
+*.versionsBackup
+*.tar.gz
+.class
+.exe
+.log
+*.jar
+.settings
